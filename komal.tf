@@ -1,5 +1,5 @@
 resource "local_file" "komal" {
     filename = "/root/komal.txt"
-    content = "my name is komal"
+    content = "my name is komal and im a devops engineer"
 
 }
